@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 #----------------------------------------------------------------------------
-# Name:         TEF_soln.py
+# Name:         spamClassification.py
 # Author:       Yixia Mao <ym943@nyu.edu>
 # Created:      Fri Nov 15 2013 by Yixia Mao (<ym943@nyu.edu>)
 #----------------------------------------------------------------------------
